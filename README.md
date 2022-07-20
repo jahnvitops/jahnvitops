@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jahnvitops
 - 👀 I’m interested in Data Science/Machine Learning/Data Analytics
-- 🌱 I’m currently learning Big Data
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me jahnvi.kapadia12@gmail.com
 
